@@ -49,14 +49,14 @@ npx create-next-app@latest quote-generator --typescript --tailwind --eslint
 cd quote-generator
 
 # UI framework setup
-npx shadcn-ui@latest init
+npx shadcn@latest init
 
 # Component installation
-npx shadcn-ui@latest add button card
+npx shadcn@latest add button card
 ```
 
 ### Project Architecture
-
+```
 quote-generator/
 ├── app/
 │ ├── page.tsx
@@ -66,6 +66,7 @@ quote-generator/
 │ └── ui/
 ├── public/
 └── ...
+```
 
 ### Implementation Steps
 
