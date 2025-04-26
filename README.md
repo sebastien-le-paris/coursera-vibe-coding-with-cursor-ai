@@ -21,3 +21,5 @@ The "Vibe Coding with Cursor AI" course is part of the Generative AI for Web Dev
 - **Network with Peers**: Join forums or groups related to the course to share insights and ask questions.
 
 For more details, visit the course page on Coursera: [Vibe Coding with Cursor AI](https://www.coursera.org/learn/vibe-coding-with-cursor-ai).
+
+# Sample Project : Quote Generator using Next.js, Tailwind CSS
