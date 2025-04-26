@@ -1,3 +1,9 @@
+# Ignore all files in the app directory
+ReadMe-tui.md
+quote-generator/.next
+quote-generator/node_modules
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
